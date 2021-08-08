@@ -1,6 +1,6 @@
 {
   "vendor": "hiringcoders2021",
-  "name": "hc-vtex",
+  "name": "hc-learn-vtex",
   "version": "0.0.0",
   "builders": {
     "styles": "2.x",
