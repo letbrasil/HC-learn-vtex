@@ -1,7 +1,7 @@
 {
   "store.product": {
     "children": [
-      "condition-layout.product", // it did't work :(
+      "condition-layout.product",
       "breadcrumb",
       "flex-layout.row#main"
     ]
@@ -14,7 +14,7 @@
   },
   "condition.product#retro-coffee": {
     "props": {
-      "condition": [{
+      "conditions": [{
         "subject": "productId",
         "verb": "is",
         "object": "3"
